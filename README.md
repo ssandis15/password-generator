@@ -1,4 +1,5 @@
 # Getting Started
+[Live preview](https://mellifluous-torte-65e87e.netlify.app/)
 Install the dependencies and run the project
 ```
 npm install
@@ -17,3 +18,4 @@ The Frontend Developer Career Path aims to teach you everything you need to beco
 - [Become a Scrimba Pro member](https://scrimba.com/pricing)
 
 Happy Coding!
+
